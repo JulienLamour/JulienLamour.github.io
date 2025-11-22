@@ -6,7 +6,7 @@ subtitle: CRBE. CNRS. Toulouse. France.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 20240309_112139.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
