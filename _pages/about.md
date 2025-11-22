@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Center for Research on Biodiversity and Environment](https://crbe.cnrs.fr/en/). CNRS. Toulouse. France.
+subtitle: CRBE. CNRS. Toulouse. France.
 
 profile:
   align: right
