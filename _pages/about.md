@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about/
+permalink: /
 subtitle: CRBE. CNRS. Toulouse. France.
 
 profile:
