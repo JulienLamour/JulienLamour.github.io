@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: [Center for Research on Biodiversity and Environment](https://crbe.cnrs.fr/en/). CNRS. Toulouse. France.
 
 profile:
   align: right
