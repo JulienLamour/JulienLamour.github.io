@@ -89,7 +89,7 @@ ninja.data = [{
         title: 'HAL',
         section: 'Socials',
         handler: () => {
-          window.open("https://cv.hal.science/817164", "_blank");
+          window.open("https://cv.hal.science/julien-lamour", "_blank");
         },
       },{
         id: 'social-linkedin',
