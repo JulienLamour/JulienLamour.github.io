@@ -1,5 +1,4 @@
 - title: Education
-- title: Education
   type: time_table
   contents:
     - title: PhD in Engineering Process
@@ -21,11 +20,13 @@
       institution: CNRS, Centre for research on biodiversity and environment
       year: 2023-2025
       description:
+        - "Modeling gas exchange processes in the Amazon rainforest"
         - "Advisor: Jérôme Chave"
     - title: Postdoctoral position
       institution: Brookhaven National Laboratory, Terrestrial Ecosystem Science and Technology
       year: 2020-2023
       description:
+        - "Leaf to canopy gas exchange processes in tropical forests"
         - "Advisor: Alistair Rogers"
     - title: PhD Contract under an Industrial Agreement for Training through Research (CIFRE).
       institution: Compagnie Fruitière
