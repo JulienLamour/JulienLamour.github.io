@@ -5,13 +5,13 @@
       institution: Montpellier SupAgro
       year: 2019
       description:
-       - "How to apply precision agriculture to the banana crop? The issue of banana development asynchronicity."
-       - Advisors: Bruno Tisseyre, Olivier Naud, Mathieu Léchaudel
+       "How to apply precision agriculture to the banana crop? The issue of banana development asynchronicity."
+       Advisors: Bruno Tisseyre, Olivier Naud, Mathieu Léchaudel
     - title: Master degree in Agronomy
       institution: Montpellier SupAgro (now L'institut Agro Montpellier)
       year: 2016
       description:
-        - Specialization in Information and Communication Technology
+        Specialization in Information and Communication Technology
 
 - title: Experience
   type: time_table
@@ -20,11 +20,11 @@
       institution: CNRS, Centre for research on biodiversity and environment
       year: 2023-2025
       description:
-        - Advisor: Jérôme Chave
+        "Advisor: Jérôme Chave"
     - title: Postdoctoral position
       institution: Brookhaven National Laboratory, Terrestrial Ecosystem Science and Technology
       year: 2020-2023
       description:
-        - Advisor: Alistair Rogers
+        "Advisor: Alistair Rogers"
 
 
