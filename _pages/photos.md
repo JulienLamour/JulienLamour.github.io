@@ -5,6 +5,8 @@ title: Photos
 description: 
 nav: true
 nav_order: 3
+images:
+  lightbox2: true
 ---
 
 Fieldwork photos
