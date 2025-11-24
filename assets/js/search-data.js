@@ -78,6 +78,27 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/JulienLamour# your GitHub user name", "_blank");
+        },
+      },{
+        id: 'social-hal',
+        title: 'HAL',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://cv.hal.science/817164", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/julien-lamour-a38a3b97", "_blank");
+        },
+      },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
