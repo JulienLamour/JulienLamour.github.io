@@ -12,5 +12,5 @@ related_publications: FALSE
 ## References
 
 <div class="publications">
-{% bibliography --file Papers_project1 %}
+{% bibliography --file Papers_project1 --sort_by none %}
 </div>

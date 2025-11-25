@@ -5,7 +5,7 @@ description:
 img: assets/img/2.jpg
 importance: 2
 category: Themes
-related_publications: true
+related_publications: FALSE
 ---
 
 
@@ -14,3 +14,6 @@ The standard reference method for estimating leaf photosynthetic properties uses
 A goal of my research is to develop alternative measurements using spectroscopy based on the measurement of reflectance in the visible and near-infrared (400 – 2500 nm). These methods aim to use the information present in the spectrum to estimate leaf traits, particularly photosynthetic traits. A key advantage of these methods is the speed of measurement (a few seconds) and the possibility of predicting numerous traits simultaneously (photosynthetic traits, chemical composition, etc.).
 
 
+<div class="publications">
+{% bibliography --file Papers_project2 --sort_by none %}
+</div>

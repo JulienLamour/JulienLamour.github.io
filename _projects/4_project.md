@@ -9,3 +9,8 @@ related_publications: true
 ---
 
 
+## References
+
+<div class="publications">
+{% bibliography --file Papers_project4 --sort_by none %}
+</div>
