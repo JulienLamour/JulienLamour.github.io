@@ -5,7 +5,7 @@ description:
 img: assets/img/3.jpg
 importance: 3
 category: Themes
-related_publications: true
+related_publications: false
 ---
 
 
@@ -16,5 +16,5 @@ A goal of my research is to develop alternative measurements using spectroscopy 
 ## References
 
 <div class="publications">
-{% bibliography --file Papers_project3 --sort_by none %}
+{% bibliography --file Papers_project3 %}
 </div>

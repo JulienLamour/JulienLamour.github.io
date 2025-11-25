@@ -9,11 +9,9 @@ related_publications: FALSE
 ---
 
 
-The standard reference method for estimating leaf photosynthetic properties uses gas exchange measurements. These measurements allow for the estimation of fundamental biochemical properties such as the velocity of carboxylation by the Rubisco enzyme, the electron transport rate, leaf respiration, or properties related to the control of transpiration by the stomata. These measurements are very accurate but also time-consuming, typically requiring one to two hours per leaf to characterize, which limits the capacity to study ecosystems with high biodiversity.
+To simulate interactions between forests, climate, and carbon and water cycles, a major challenge lies in successfully parameterizing gas exchange models to represent the great functional diversity of species and their response to environmental changes. In many terrestrial models, the extraordinary diversity of tropical species is often drastically simplified into one or two representative species. New models are attempting to better represent functional diversity in order to more accurately capture the effect of this diversity on ecosystem resilience and to predict changes in floristic composition in the face of climate change.
 
-A goal of my research is to develop alternative measurements using spectroscopy based on the measurement of reflectance in the visible and near-infrared (400 – 2500 nm). These methods aim to use the information present in the spectrum to estimate leaf traits, particularly photosynthetic traits. A key advantage of these methods is the speed of measurement (a few seconds) and the possibility of predicting numerous traits simultaneously (photosynthetic traits, chemical composition, etc.).
-
-
+## References 
 <div class="publications">
-{% bibliography --file Papers_project2 --sort_by none %}
+{% bibliography --file Papers_project2 %}
 </div>
