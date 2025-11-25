@@ -4,7 +4,7 @@ permalink: /Photos/
 title: Photos
 description: 
 nav: true
-nav_order: 3
+nav_order: 5
 images:
   lightbox2: true
 ---
