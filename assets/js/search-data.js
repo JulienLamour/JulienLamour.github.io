@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-research",
+          title: "Research",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Research/";
+          },
+        },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
@@ -46,11 +53,26 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "projects-leaf-gas-exchange-processes",
+          title: 'Leaf gas exchange processes',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-leaf-functional-diversity",
+          title: 'Leaf functional diversity',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{id: "projects-leaf-spectroscopy",
           title: 'Leaf spectroscopy',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-carbon-and-water-fluxes-between-forests-and-the-atmosphere",
+          title: 'Carbon and water fluxes between forests and the atmosphere',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{
         id: 'social-github',
         title: 'GitHub',
