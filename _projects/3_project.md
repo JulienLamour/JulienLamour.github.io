@@ -2,7 +2,7 @@
 layout: page
 title: Leaf spectroscopy
 description: 
-img: assets/img/12.jpg
+img: assets/img/3.jpg
 importance: 3
 category: Themes
 related_publications: true

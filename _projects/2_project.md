@@ -2,7 +2,7 @@
 layout: page
 title: Leaf functional diversity
 description: 
-img: assets/img/12.jpg
+img: assets/img/2.jpg
 importance: 2
 category: Themes
 related_publications: true
