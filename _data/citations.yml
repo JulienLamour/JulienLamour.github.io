@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-02'
+  last_updated: '2026-01-16'
 papers:
   Kbb96ZYAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -10,11 +10,11 @@ papers:
     title: Spatial Analysis of On-Farm Production Data for Agronomic Diagnosis in Banana Plantations Considering Crop Asynchronism
     year: '2019'
   Kbb96ZYAAAAJ:2osOgNQ5qMEC:
-    citations: 10
-    title: "New calculations for photosynthesis measurement systems: what\u2019s the impact for physiologists and modelers?"
-    year: '2021'
+    citations: 11
+    title: New calculations for photosynthesis measurement systems
+    year: '2022'
   Kbb96ZYAAAAJ:3fE2CSJIrl8C:
-    citations: 9
+    citations: 10
     title: Implementation and evaluation of the unified stomatal optimization approach in the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)
     year: '2022'
   Kbb96ZYAAAAJ:4DMP91E08xMC:
@@ -23,8 +23,8 @@ papers:
     year: '2022'
   Kbb96ZYAAAAJ:4JMBOYKVnBMC:
     citations: 0
-    title: Topography and Functional Traits Shape the Distribution of Key Shrub Plant Functional Types in Low-Arctic Tundra
-    year: Unknown Year
+    title: Topography and functional traits shape the distribution of key shrub plant functional types in low-Arctic tundra
+    year: '2026'
   Kbb96ZYAAAAJ:4TOpqqG69KYC:
     citations: 31
     title: The effect of the vertical gradients of photosynthetic parameters on the CO2 assimilation and transpiration of a Panamanian tropical forest
@@ -46,15 +46,15 @@ papers:
     title: Canopy reflectance spectroscopy, thermal images and digital photographs, San Lorenzo, Panama, 2020
     year: '2023'
   Kbb96ZYAAAAJ:9yKSN-GCB0IC:
-    citations: 14
+    citations: 15
     title: 'Spatial analysis and mapping of banana crop properties: issues of the asynchronicity of the banana production and proposition of a statistical method to take it into account'
     year: '2020'
   Kbb96ZYAAAAJ:HDshCWvjkbEC:
-    citations: 1
+    citations: 2
     title: 'The Global Spectra-Trait Initiative: A database of paired leaf spectroscopy and functional traits associated with leaf photosynthetic capacity'
     year: '2025'
   Kbb96ZYAAAAJ:IWHjjKOFINEC:
-    citations: 7
+    citations: 9
     title: Linking leaf dark respiration to leaf traits and reflectance spectroscopy across diverse forest types
     year: '2025'
   Kbb96ZYAAAAJ:IjCSPb-OGe4C:
@@ -106,7 +106,7 @@ papers:
     title: 'GeoFIS: An open source, decision-support tool for precision agriculture data'
     year: '2018'
   Kbb96ZYAAAAJ:UebtZRa9Y70C:
-    citations: 208
+    citations: 213
     title: A best-practice guide to predicting plant traits from leaf-level hyperspectral data using partial least squares regression
     year: '2021'
   Kbb96ZYAAAAJ:W7OEmFMy1HYC:
@@ -146,7 +146,7 @@ papers:
     title: "Wood\u2010density has no effect on stomatal control of leaf\u2010level water use efficiency in an Amazonian forest"
     year: '2023'
   Kbb96ZYAAAAJ:d1gkVwhDpl0C:
-    citations: 44
+    citations: 45
     title: A reporting format for leaf-level gas exchange data and metadata
     year: '2021'
   Kbb96ZYAAAAJ:dhFuZR0502QC:
@@ -160,25 +160,29 @@ papers:
   Kbb96ZYAAAAJ:hC7cP41nSMkC:
     citations: 0
     title: A Comprehensive Database of Leaf Temperature, Water, and CO 2 Fluxes in Young Oil Palm Plants Across Diverse Climate Scenarios
-    year: '2025'
+    year: '2026'
   Kbb96ZYAAAAJ:hFOr9nPyWt4C:
     citations: 0
     title: Steeper Canopy Gradients of Leaf Respiration Increase Leaf Area Index and Vegetation Carbon in Global Simulations of ELM-FATES
     year: '2024'
   Kbb96ZYAAAAJ:hqOjcs7Dif8C:
-    citations: 22
+    citations: 23
     title: Rapid estimation of photosynthetic leaf traits of tropical plants in diverse environmental conditions using reflectance spectroscopy
     year: '2021'
+  Kbb96ZYAAAAJ:iH-uZ7U-co4C:
+    citations: 0
+    title: 'The Global Spectra-Trait Initiative: A database of paired leaf spectroscopy and functional traits associated with leaf photosynthetic capacity'
+    year: '2026'
   Kbb96ZYAAAAJ:j3f4tGmQtD8C:
     citations: 0
     title: "Leaf Elementomes Reveal Close Links With Leaf Water\u2010Use Strategies Across Diverse Forest Ecosystems: Insights From Trait Coordination and Reflectance Spectroscopy"
     year: '2025'
   Kbb96ZYAAAAJ:kNdYIx-mwKoC:
-    citations: 33
+    citations: 35
     title: 'Remote sensing from unoccupied aerial systems: opportunities to enhance Arctic plant ecology in a changing climate'
     year: '2022'
   Kbb96ZYAAAAJ:mB3voiENLucC:
-    citations: 2
+    citations: 3
     title: "Deciphering the variability of leaf phosphorus\u2010allocation strategies using leaf economic traits and reflectance spectroscopy across diverse forest types"
     year: '2025'
   Kbb96ZYAAAAJ:mVmsd5A6BfQC:
