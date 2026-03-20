@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-02'
+  last_updated: '2026-03-20'
 papers:
   Kbb96ZYAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -26,7 +26,7 @@ papers:
     title: Topography and functional traits shape the distribution of key shrub plant functional types in low-Arctic tundra
     year: '2025'
   Kbb96ZYAAAAJ:4TOpqqG69KYC:
-    citations: 31
+    citations: 33
     title: The effect of the vertical gradients of photosynthetic parameters on the CO2 assimilation and transpiration of a Panamanian tropical forest
     year: '2023'
   Kbb96ZYAAAAJ:5nxA0vEk-isC:
@@ -110,7 +110,7 @@ papers:
     title: 'GeoFIS: An open source, decision-support tool for precision agriculture data'
     year: '2018'
   Kbb96ZYAAAAJ:UebtZRa9Y70C:
-    citations: 225
+    citations: 233
     title: A best-practice guide to predicting plant traits from leaf-level hyperspectral data using partial least squares regression
     year: '2021'
   Kbb96ZYAAAAJ:W7OEmFMy1HYC:
@@ -177,16 +177,20 @@ papers:
     citations: 23
     title: Rapid estimation of photosynthetic leaf traits of tropical plants in diverse environmental conditions using reflectance spectroscopy
     year: '2021'
+  Kbb96ZYAAAAJ:isC4tDSrTZIC:
+    citations: 0
+    title: Amazon rainforests are rejuvenating their canopies by producing more photosynthetically efficient young leaves under climate change
+    year: '2026'
   Kbb96ZYAAAAJ:j3f4tGmQtD8C:
     citations: 0
     title: "Leaf Elementomes Reveal Close Links With Leaf Water\u2010Use Strategies Across Diverse Forest Ecosystems: Insights From Trait Coordination and Reflectance Spectroscopy"
-    year: '2025'
+    year: '2026'
   Kbb96ZYAAAAJ:kNdYIx-mwKoC:
-    citations: 35
+    citations: 36
     title: 'Remote sensing from unoccupied aerial systems: opportunities to enhance Arctic plant ecology in a changing climate'
     year: '2022'
   Kbb96ZYAAAAJ:mB3voiENLucC:
-    citations: 3
+    citations: 4
     title: "Deciphering the variability of leaf phosphorus\u2010allocation strategies using leaf economic traits and reflectance spectroscopy across diverse forest types"
     year: '2025'
   Kbb96ZYAAAAJ:mVmsd5A6BfQC:
@@ -194,7 +198,7 @@ papers:
     title: 'Canopy-level ecophysiological studies in the Amazon forest: challenges and preliminary results'
     year: '2023'
   Kbb96ZYAAAAJ:qUcmZB5y_30C:
-    citations: 8
+    citations: 10
     title: Vertical canopy gradients of respiration drive plant carbon budgets and leaf area index
     year: '2025'
   Kbb96ZYAAAAJ:qjMakFHDy7sC:
@@ -214,7 +218,7 @@ papers:
     title: 'Response Manipulation vs Diurnal Observation: A Direct Comparison of Two Methods for Quantifying Stomatal Behavior in Tropical Forests'
     year: '2022'
   Kbb96ZYAAAAJ:ufrVoPGSRksC:
-    citations: 36
+    citations: 37
     title: Seasonal trends in photosynthesis and leaf traits in scarlet oak
     year: '2021'
   Kbb96ZYAAAAJ:zYLM7Y9cAGgC:
