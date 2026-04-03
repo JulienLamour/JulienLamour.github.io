@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-27'
+  last_updated: '2026-04-03'
 papers:
   Kbb96ZYAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -78,7 +78,7 @@ papers:
     title: Leaf gas exchange, spectral reflectance and leaf composition, BIONTE, Brazil, 2022
     year: '2022'
   Kbb96ZYAAAAJ:MXK_kJrjxJIC:
-    citations: 32
+    citations: 33
     title: "An improved representation of the relationship between photosynthesis and stomatal conductance leads to more stable estimation of conductance parameters and improves the \u2026"
     year: '2022'
   Kbb96ZYAAAAJ:QIV2ME_5wuYC:
@@ -110,7 +110,7 @@ papers:
     title: 'GeoFIS: An open source, decision-support tool for precision agriculture data'
     year: '2018'
   Kbb96ZYAAAAJ:UebtZRa9Y70C:
-    citations: 235
+    citations: 239
     title: A best-practice guide to predicting plant traits from leaf-level hyperspectral data using partial least squares regression
     year: '2021'
   Kbb96ZYAAAAJ:W7OEmFMy1HYC:
@@ -178,7 +178,7 @@ papers:
     title: Rapid estimation of photosynthetic leaf traits of tropical plants in diverse environmental conditions using reflectance spectroscopy
     year: '2021'
   Kbb96ZYAAAAJ:isC4tDSrTZIC:
-    citations: 0
+    citations: 1
     title: Amazon rainforests are rejuvenating their canopies by producing more photosynthetically efficient young leaves under climate change
     year: '2026'
   Kbb96ZYAAAAJ:j3f4tGmQtD8C:
