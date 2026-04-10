@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-10'
 papers:
   Kbb96ZYAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -110,7 +110,7 @@ papers:
     title: 'GeoFIS: An open source, decision-support tool for precision agriculture data'
     year: '2018'
   Kbb96ZYAAAAJ:UebtZRa9Y70C:
-    citations: 239
+    citations: 243
     title: A best-practice guide to predicting plant traits from leaf-level hyperspectral data using partial least squares regression
     year: '2021'
   Kbb96ZYAAAAJ:W7OEmFMy1HYC:
@@ -198,7 +198,7 @@ papers:
     title: 'Canopy-level ecophysiological studies in the Amazon forest: challenges and preliminary results'
     year: '2023'
   Kbb96ZYAAAAJ:qUcmZB5y_30C:
-    citations: 10
+    citations: 11
     title: Vertical canopy gradients of respiration drive plant carbon budgets and leaf area index
     year: '2025'
   Kbb96ZYAAAAJ:qjMakFHDy7sC:
@@ -216,7 +216,7 @@ papers:
   Kbb96ZYAAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: 'Response Manipulation vs Diurnal Observation: A Direct Comparison of Two Methods for Quantifying Stomatal Behavior in Tropical Forests'
-    year: '2022'
+    year: '2021'
   Kbb96ZYAAAAJ:ufrVoPGSRksC:
     citations: 37
     title: Seasonal trends in photosynthesis and leaf traits in scarlet oak
