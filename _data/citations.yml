@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-05-25'
 papers:
   Kbb96ZYAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -10,11 +10,11 @@ papers:
     title: Spatial Analysis of On-Farm Production Data for Agronomic Diagnosis in Banana Plantations Considering Crop Asynchronism
     year: '2019'
   Kbb96ZYAAAAJ:2osOgNQ5qMEC:
-    citations: 11
+    citations: 13
     title: New calculations for photosynthesis measurement systems
     year: '2022'
   Kbb96ZYAAAAJ:3fE2CSJIrl8C:
-    citations: 10
+    citations: 11
     title: Implementation and evaluation of the unified stomatal optimization approach in the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)
     year: '2022'
   Kbb96ZYAAAAJ:4DMP91E08xMC:
@@ -22,7 +22,7 @@ papers:
     title: Foliar isotopic and elemental biochemistry and leaf mass per area (LMA), Parque Natural Metropolitano, Panama, 2022
     year: '2022'
   Kbb96ZYAAAAJ:4JMBOYKVnBMC:
-    citations: 0
+    citations: 1
     title: Topography and functional traits shape the distribution of key shrub plant functional types in low-Arctic tundra
     year: '2025'
   Kbb96ZYAAAAJ:4TOpqqG69KYC:
@@ -73,16 +73,20 @@ papers:
     citations: 4
     title: 'Mapping properties of an asynchronous crop: The example of time interval between flowering and maturity of banana'
     year: '2017'
+  Kbb96ZYAAAAJ:M3NEmzRMIkIC:
+    citations: 0
+    title: The effect of relative humidity and temperature on the response of stomatal conductance to vapor pressure deficit in tropical trees
+    year: '2026'
   Kbb96ZYAAAAJ:M3ejUd6NZC8C:
     citations: 1
     title: Leaf gas exchange, spectral reflectance and leaf composition, BIONTE, Brazil, 2022
     year: '2022'
   Kbb96ZYAAAAJ:MXK_kJrjxJIC:
-    citations: 33
+    citations: 35
     title: "An improved representation of the relationship between photosynthesis and stomatal conductance leads to more stable estimation of conductance parameters and improves the \u2026"
     year: '2022'
   Kbb96ZYAAAAJ:QIV2ME_5wuYC:
-    citations: 0
+    citations: 1
     title: Leaf gas exchange, leaf water potential and spectral reflectance, BIONTE, Brazil, 2023
     year: '2023'
   Kbb96ZYAAAAJ:Se3iqnhoufwC:
@@ -102,15 +106,15 @@ papers:
     title: The effect of vertical gradients in photosynthetic parameters on predictions of gross primary productivity of a tropical forest in terrestrial biosphere models
     year: '2020'
   Kbb96ZYAAAAJ:ULOm3_A8WrAC:
-    citations: 18
+    citations: 19
     title: "Short\u2010term variation in leaf\u2010level water use efficiency in a tropical forest"
     year: '2023'
   Kbb96ZYAAAAJ:UeHWp8X0CEIC:
-    citations: 71
+    citations: 72
     title: 'GeoFIS: An open source, decision-support tool for precision agriculture data'
     year: '2018'
   Kbb96ZYAAAAJ:UebtZRa9Y70C:
-    citations: 248
+    citations: 257
     title: A best-practice guide to predicting plant traits from leaf-level hyperspectral data using partial least squares regression
     year: '2021'
   Kbb96ZYAAAAJ:W7OEmFMy1HYC:
@@ -118,7 +122,7 @@ papers:
     title: Evaluating the drivers of banana flowering cycle duration using a stochastic model and on farm production data
     year: '2021'
   Kbb96ZYAAAAJ:WF5omc3nYNoC:
-    citations: 50
+    citations: 51
     title: Designing oil palm architectural ideotypes for optimal light interception and carbon assimilation through a sensitivity analysis of leaf traits
     year: '2018'
   Kbb96ZYAAAAJ:Wp0gIr-vW9MC:
@@ -154,7 +158,7 @@ papers:
     title: Impact of leaf excision on stomatal conductance and photosynthetic parameters in the Amazon forest
     year: '2024'
   Kbb96ZYAAAAJ:d1gkVwhDpl0C:
-    citations: 43
+    citations: 45
     title: A reporting format for leaf-level gas exchange data and metadata
     year: '2021'
   Kbb96ZYAAAAJ:dhFuZR0502QC:
@@ -174,7 +178,7 @@ papers:
     title: Steeper Canopy Gradients of Leaf Respiration Increase Leaf Area Index and Vegetation Carbon in Global Simulations of ELM-FATES
     year: '2024'
   Kbb96ZYAAAAJ:hqOjcs7Dif8C:
-    citations: 23
+    citations: 24
     title: Rapid estimation of photosynthetic leaf traits of tropical plants in diverse environmental conditions using reflectance spectroscopy
     year: '2021'
   Kbb96ZYAAAAJ:isC4tDSrTZIC:
@@ -189,6 +193,10 @@ papers:
     citations: 36
     title: 'Remote sensing from unoccupied aerial systems: opportunities to enhance Arctic plant ecology in a changing climate'
     year: '2022'
+  Kbb96ZYAAAAJ:k_IJM867U9cC:
+    citations: 0
+    title: A multi-scale dataset combining 3D plant architecture, leaf gas exchange, and whole-plant fluxes in young oil palm under controlled climate scenarios
+    year: '2026'
   Kbb96ZYAAAAJ:mB3voiENLucC:
     citations: 5
     title: "Deciphering the variability of leaf phosphorus\u2010allocation strategies using leaf economic traits and reflectance spectroscopy across diverse forest types"
@@ -197,8 +205,12 @@ papers:
     citations: 0
     title: 'Canopy-level ecophysiological studies in the Amazon forest: challenges and preliminary results'
     year: '2023'
+  Kbb96ZYAAAAJ:maZDTaKrznsC:
+    citations: 0
+    title: Improved model representation of the photosynthetic light reactions reduces estimates of global gross primary productivity
+    year: '2026'
   Kbb96ZYAAAAJ:qUcmZB5y_30C:
-    citations: 12
+    citations: 14
     title: Vertical canopy gradients of respiration drive plant carbon budgets and leaf area index
     year: '2025'
   Kbb96ZYAAAAJ:qjMakFHDy7sC:
@@ -206,11 +218,11 @@ papers:
     title: "Analyse de donn\xE9es spatialis\xE9es issues de la production pour am\xE9liorer le diagnostic agronomique en bananeraie-Prise en compte de l\u2019asynchronisme de la culture"
     year: '2019'
   Kbb96ZYAAAAJ:qxL8FJ1GzNcC:
-    citations: 13
+    citations: 14
     title: "Seasonal trends in leaf\u2010level photosynthetic capacity and water use efficiency in a North American Eastern deciduous forest and their impact on canopy\u2010scale gas exchange"
     year: '2023'
   Kbb96ZYAAAAJ:roLk4NBRz8UC:
-    citations: 13
+    citations: 15
     title: "Late-day measurement of excised branches results in uncertainty in the estimation of two stomatal parameters derived from response curves in Populus deltoides Bartr.\xD7 Populus \u2026"
     year: '2022'
   Kbb96ZYAAAAJ:u-x6o8ySG0sC:
@@ -218,7 +230,7 @@ papers:
     title: 'Response Manipulation vs Diurnal Observation: A Direct Comparison of Two Methods for Quantifying Stomatal Behavior in Tropical Forests'
     year: '2021'
   Kbb96ZYAAAAJ:ufrVoPGSRksC:
-    citations: 37
+    citations: 43
     title: Seasonal trends in photosynthesis and leaf traits in scarlet oak
     year: '2021'
   Kbb96ZYAAAAJ:zYLM7Y9cAGgC:
