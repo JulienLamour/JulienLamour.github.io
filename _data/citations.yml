@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-13'
 papers:
   Kbb96ZYAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -50,11 +50,11 @@ papers:
     title: 'Spatial analysis and mapping of banana crop properties: issues of the asynchronicity of the banana production and proposition of a statistical method to take it into account'
     year: '2020'
   Kbb96ZYAAAAJ:HDshCWvjkbEC:
-    citations: 2
+    citations: 3
     title: 'The Global Spectra-Trait Initiative: A database of paired leaf spectroscopy and functional traits associated with leaf photosynthetic capacity'
     year: '2025'
   Kbb96ZYAAAAJ:IWHjjKOFINEC:
-    citations: 11
+    citations: 12
     title: Linking leaf dark respiration to leaf traits and reflectance spectroscopy across diverse forest types
     year: '2025'
   Kbb96ZYAAAAJ:IjCSPb-OGe4C:
@@ -114,7 +114,7 @@ papers:
     title: 'GeoFIS: An open source, decision-support tool for precision agriculture data'
     year: '2018'
   Kbb96ZYAAAAJ:UebtZRa9Y70C:
-    citations: 276
+    citations: 277
     title: A best-practice guide to predicting plant traits from leaf-level hyperspectral data using partial least squares regression
     year: '2021'
   Kbb96ZYAAAAJ:W7OEmFMy1HYC:
@@ -150,7 +150,7 @@ papers:
     title: Leaf reflectance, leaf transmittance and sky irradiance, at four sites in Panama, 2022
     year: '2021'
   Kbb96ZYAAAAJ:aqlVkmm33-oC:
-    citations: 13
+    citations: 14
     title: "Wood\u2010density has no effect on stomatal control of leaf\u2010level water use efficiency in an Amazonian forest"
     year: '2023'
   Kbb96ZYAAAAJ:bEWYMUwI8FkC:
@@ -222,7 +222,7 @@ papers:
     title: "Seasonal trends in leaf\u2010level photosynthetic capacity and water use efficiency in a North American Eastern deciduous forest and their impact on canopy\u2010scale gas exchange"
     year: '2023'
   Kbb96ZYAAAAJ:roLk4NBRz8UC:
-    citations: 16
+    citations: 17
     title: "Late-day measurement of excised branches results in uncertainty in the estimation of two stomatal parameters derived from response curves in Populus deltoides Bartr.\xD7 Populus \u2026"
     year: '2022'
   Kbb96ZYAAAAJ:u-x6o8ySG0sC:
