@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-08-07'
 papers:
   Kbb96ZYAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: New calculations for photosynthesis measurement systems
     year: '2022'
   Kbb96ZYAAAAJ:3fE2CSJIrl8C:
-    citations: 13
+    citations: 14
     title: Implementation and evaluation of the unified stomatal optimization approach in the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)
     year: '2022'
   Kbb96ZYAAAAJ:4DMP91E08xMC:
@@ -26,7 +26,7 @@ papers:
     title: Topography and functional traits shape the distribution of key shrub plant functional types in low-Arctic tundra
     year: '2025'
   Kbb96ZYAAAAJ:4TOpqqG69KYC:
-    citations: 36
+    citations: 38
     title: The effect of the vertical gradients of photosynthetic parameters on the CO2 assimilation and transpiration of a Panamanian tropical forest
     year: '2023'
   Kbb96ZYAAAAJ:5nxA0vEk-isC:
@@ -38,7 +38,7 @@ papers:
     title: Topography and Functional Traits Control the Distribution of Key Shrub Plant Functional Types in Low-Arctic Tundra
     year: '2024'
   Kbb96ZYAAAAJ:8k81kl-MbHgC:
-    citations: 7
+    citations: 6
     title: A multispectral processing chain for chlorophyll content assessment in banana fields by UAV imagery
     year: '2019'
   Kbb96ZYAAAAJ:9ZlFYXVOiuMC:
@@ -50,7 +50,7 @@ papers:
     title: 'Spatial analysis and mapping of banana crop properties: issues of the asynchronicity of the banana production and proposition of a statistical method to take it into account'
     year: '2020'
   Kbb96ZYAAAAJ:HDshCWvjkbEC:
-    citations: 3
+    citations: 6
     title: 'The Global Spectra-Trait Initiative: A database of paired leaf spectroscopy and functional traits associated with leaf photosynthetic capacity'
     year: '2025'
   Kbb96ZYAAAAJ:IWHjjKOFINEC:
@@ -61,6 +61,10 @@ papers:
     citations: 2
     title: Leaf spectral reflectance and transmittance, San Lorenzo, Panama, 2020
     year: '2020'
+  Kbb96ZYAAAAJ:JV2RwH3_ST0C:
+    citations: 0
+    title: "Regulation of Transpiration and Whole\u2010Tree Crown Conductance in Tropical Forests"
+    year: '2026'
   Kbb96ZYAAAAJ:KlAtU1dfN6UC:
     citations: 0
     title: Leaf gas exchange (BNL-PNNL collaboration), San Lorenzo, Panama, 2020
@@ -74,7 +78,7 @@ papers:
     title: 'Mapping properties of an asynchronous crop: The example of time interval between flowering and maturity of banana'
     year: '2017'
   Kbb96ZYAAAAJ:M3NEmzRMIkIC:
-    citations: 0
+    citations: 1
     title: The effect of relative humidity and temperature on the response of stomatal conductance to vapor pressure deficit in tropical trees
     year: '2026'
   Kbb96ZYAAAAJ:M3ejUd6NZC8C:
@@ -82,7 +86,7 @@ papers:
     title: Leaf gas exchange, spectral reflectance and leaf composition, BIONTE, Brazil, 2022
     year: '2022'
   Kbb96ZYAAAAJ:MXK_kJrjxJIC:
-    citations: 37
+    citations: 40
     title: "An improved representation of the relationship between photosynthesis and stomatal conductance leads to more stable estimation of conductance parameters and improves the \u2026"
     year: '2022'
   Kbb96ZYAAAAJ:QIV2ME_5wuYC:
@@ -98,7 +102,7 @@ papers:
     title: 'The Global Spectra-Trait Initiative: A database of paired leaf spectroscopy and functional'
     year: '2026'
   Kbb96ZYAAAAJ:TQgYirikUcIC:
-    citations: 3
+    citations: 4
     title: "Constraining light\u2010driven plasticity in leaf traits with observations improves the prediction of tropical forest demography, structure, and biomass dynamics"
     year: '2025'
   Kbb96ZYAAAAJ:Tyk-4Ss8FVUC:
@@ -106,19 +110,19 @@ papers:
     title: The effect of vertical gradients in photosynthetic parameters on predictions of gross primary productivity of a tropical forest in terrestrial biosphere models
     year: '2020'
   Kbb96ZYAAAAJ:ULOm3_A8WrAC:
-    citations: 22
+    citations: 21
     title: "Short\u2010term variation in leaf\u2010level water use efficiency in a tropical forest"
     year: '2023'
   Kbb96ZYAAAAJ:UeHWp8X0CEIC:
-    citations: 73
+    citations: 76
     title: 'GeoFIS: An open source, decision-support tool for precision agriculture data'
     year: '2018'
   Kbb96ZYAAAAJ:UebtZRa9Y70C:
-    citations: 277
+    citations: 283
     title: A best-practice guide to predicting plant traits from leaf-level hyperspectral data using partial least squares regression
     year: '2021'
   Kbb96ZYAAAAJ:W7OEmFMy1HYC:
-    citations: 14
+    citations: 15
     title: Evaluating the drivers of banana flowering cycle duration using a stochastic model and on farm production data
     year: '2021'
   Kbb96ZYAAAAJ:WF5omc3nYNoC:
@@ -146,7 +150,7 @@ papers:
     title: ESS-DIVE reporting format for leaf-level gas exchange data and metadata
     year: '2020'
   Kbb96ZYAAAAJ:_kc_bZDykSQC:
-    citations: 0
+    citations: 1
     title: Leaf reflectance, leaf transmittance and sky irradiance, at four sites in Panama, 2022
     year: '2021'
   Kbb96ZYAAAAJ:aqlVkmm33-oC:
@@ -157,6 +161,10 @@ papers:
     citations: 0
     title: Impact of leaf excision on stomatal conductance and photosynthetic parameters in the Amazon forest
     year: '2024'
+  Kbb96ZYAAAAJ:blknAaTinKkC:
+    citations: 0
+    title: A Simple Stomatal Model That Unifies the Metabolic and Hydraulic Control of Carbon and Water Flux
+    year: '2026'
   Kbb96ZYAAAAJ:d1gkVwhDpl0C:
     citations: 46
     title: A reporting format for leaf-level gas exchange data and metadata
@@ -190,7 +198,7 @@ papers:
     title: "Leaf Elementomes Reveal Close Links With Leaf Water\u2010Use Strategies Across Diverse Forest Ecosystems: Insights From Trait Coordination and Reflectance Spectroscopy"
     year: '2026'
   Kbb96ZYAAAAJ:kNdYIx-mwKoC:
-    citations: 40
+    citations: 36
     title: 'Remote sensing from unoccupied aerial systems: opportunities to enhance Arctic plant ecology in a changing climate'
     year: '2022'
   Kbb96ZYAAAAJ:k_IJM867U9cC:
@@ -198,7 +206,7 @@ papers:
     title: A multi-scale dataset combining 3D plant architecture, leaf gas exchange, and whole-plant fluxes in young oil palm under controlled climate scenarios
     year: '2026'
   Kbb96ZYAAAAJ:mB3voiENLucC:
-    citations: 5
+    citations: 8
     title: "Deciphering the variability of leaf phosphorus\u2010allocation strategies using leaf economic traits and reflectance spectroscopy across diverse forest types"
     year: '2025'
   Kbb96ZYAAAAJ:mVmsd5A6BfQC:
@@ -210,7 +218,7 @@ papers:
     title: Improved model representation of the photosynthetic light reactions reduces estimates of global gross primary productivity
     year: '2026'
   Kbb96ZYAAAAJ:qUcmZB5y_30C:
-    citations: 16
+    citations: 17
     title: Vertical canopy gradients of respiration drive plant carbon budgets and leaf area index
     year: '2025'
   Kbb96ZYAAAAJ:qjMakFHDy7sC:
@@ -218,7 +226,7 @@ papers:
     title: "Analyse de donn\xE9es spatialis\xE9es issues de la production pour am\xE9liorer le diagnostic agronomique en bananeraie-Prise en compte de l\u2019asynchronisme de la culture"
     year: '2019'
   Kbb96ZYAAAAJ:qxL8FJ1GzNcC:
-    citations: 15
+    citations: 14
     title: "Seasonal trends in leaf\u2010level photosynthetic capacity and water use efficiency in a North American Eastern deciduous forest and their impact on canopy\u2010scale gas exchange"
     year: '2023'
   Kbb96ZYAAAAJ:roLk4NBRz8UC:
@@ -230,7 +238,7 @@ papers:
     title: 'Response Manipulation vs Diurnal Observation: A Direct Comparison of Two Methods for Quantifying Stomatal Behavior in Tropical Forests'
     year: '2021'
   Kbb96ZYAAAAJ:ufrVoPGSRksC:
-    citations: 43
+    citations: 44
     title: Seasonal trends in photosynthesis and leaf traits in scarlet oak
     year: '2021'
   Kbb96ZYAAAAJ:zYLM7Y9cAGgC:
