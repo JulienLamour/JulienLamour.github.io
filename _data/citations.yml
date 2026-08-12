@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-12'
 papers:
   Kbb96ZYAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -38,7 +38,7 @@ papers:
     title: Topography and Functional Traits Control the Distribution of Key Shrub Plant Functional Types in Low-Arctic Tundra
     year: '2024'
   Kbb96ZYAAAAJ:8k81kl-MbHgC:
-    citations: 6
+    citations: 7
     title: A multispectral processing chain for chlorophyll content assessment in banana fields by UAV imagery
     year: '2019'
   Kbb96ZYAAAAJ:9ZlFYXVOiuMC:
@@ -46,7 +46,7 @@ papers:
     title: Canopy reflectance spectroscopy, thermal images and digital photographs, San Lorenzo, Panama, 2020
     year: '2023'
   Kbb96ZYAAAAJ:9yKSN-GCB0IC:
-    citations: 15
+    citations: 16
     title: 'Spatial analysis and mapping of banana crop properties: issues of the asynchronicity of the banana production and proposition of a statistical method to take it into account'
     year: '2020'
   Kbb96ZYAAAAJ:HDshCWvjkbEC:
@@ -78,7 +78,7 @@ papers:
     title: 'Mapping properties of an asynchronous crop: The example of time interval between flowering and maturity of banana'
     year: '2017'
   Kbb96ZYAAAAJ:M3NEmzRMIkIC:
-    citations: 1
+    citations: 2
     title: The effect of relative humidity and temperature on the response of stomatal conductance to vapor pressure deficit in tropical trees
     year: '2026'
   Kbb96ZYAAAAJ:M3ejUd6NZC8C:
@@ -118,7 +118,7 @@ papers:
     title: 'GeoFIS: An open source, decision-support tool for precision agriculture data'
     year: '2018'
   Kbb96ZYAAAAJ:UebtZRa9Y70C:
-    citations: 283
+    citations: 284
     title: A best-practice guide to predicting plant traits from leaf-level hyperspectral data using partial least squares regression
     year: '2021'
   Kbb96ZYAAAAJ:W7OEmFMy1HYC:
@@ -206,7 +206,7 @@ papers:
     title: A multi-scale dataset combining 3D plant architecture, leaf gas exchange, and whole-plant fluxes in young oil palm under controlled climate scenarios
     year: '2026'
   Kbb96ZYAAAAJ:mB3voiENLucC:
-    citations: 8
+    citations: 10
     title: "Deciphering the variability of leaf phosphorus\u2010allocation strategies using leaf economic traits and reflectance spectroscopy across diverse forest types"
     year: '2025'
   Kbb96ZYAAAAJ:mVmsd5A6BfQC:
