@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-09-02'
 papers:
   Kbb96ZYAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -118,11 +118,11 @@ papers:
     title: 'GeoFIS: An open source, decision-support tool for precision agriculture data'
     year: '2018'
   Kbb96ZYAAAAJ:UebtZRa9Y70C:
-    citations: 284
+    citations: 290
     title: A best-practice guide to predicting plant traits from leaf-level hyperspectral data using partial least squares regression
     year: '2021'
   Kbb96ZYAAAAJ:W7OEmFMy1HYC:
-    citations: 15
+    citations: 17
     title: Evaluating the drivers of banana flowering cycle duration using a stochastic model and on farm production data
     year: '2021'
   Kbb96ZYAAAAJ:WF5omc3nYNoC:
@@ -154,7 +154,7 @@ papers:
     title: Leaf reflectance, leaf transmittance and sky irradiance, at four sites in Panama, 2022
     year: '2021'
   Kbb96ZYAAAAJ:aqlVkmm33-oC:
-    citations: 14
+    citations: 15
     title: "Wood\u2010density has no effect on stomatal control of leaf\u2010level water use efficiency in an Amazonian forest"
     year: '2023'
   Kbb96ZYAAAAJ:bEWYMUwI8FkC:
@@ -206,7 +206,7 @@ papers:
     title: A multi-scale dataset combining 3D plant architecture, leaf gas exchange, and whole-plant fluxes in young oil palm under controlled climate scenarios
     year: '2026'
   Kbb96ZYAAAAJ:mB3voiENLucC:
-    citations: 10
+    citations: 11
     title: "Deciphering the variability of leaf phosphorus\u2010allocation strategies using leaf economic traits and reflectance spectroscopy across diverse forest types"
     year: '2025'
   Kbb96ZYAAAAJ:mVmsd5A6BfQC:
